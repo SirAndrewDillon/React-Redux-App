@@ -21,7 +21,7 @@ class Search extends React.Component {
 						e.persist()
 						this.handleChange(e)
 					}}
-					placeholder="Searh a movie"
+					placeholder="Search Movies"
 				/>
 			</div>
 		)
